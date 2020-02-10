@@ -1,27 +1,28 @@
-# Style a Resume: Guru
+# Estilizar um Currículo: Guru
 
-For this activity, you'll need to update the rules in `style.css` in order to get a resume that looks like the one in `mock_up.pdf`.
+Para esta atividade, você precisará atualizar as regras em `style.css` para conseguir um currículo que se pareça com o do arquivo `mock_up.pdf`.
 
-The only thing we've taken care of for you at this level is alignment. You'll need to figure out everything else on your own!
+A única coisa que nós fizemos por você neste nível foi o alinhamento. Você terá que descobrir todo o resto por conta própria!
 
-## Fonts
-The body and html tag use `'Lato'`, `'Helvetica'`, `'Arial'`, and `sans-serif` by default.
+## Fontes
+O body e tag html usam `'Lato'`, `'Helvetica'`, `'Arial'`, e `sans-serif` por padrão.
 
-Other elements use `'Rokkitt'`, `'Helvetica'`, `'Arial'`, and `sans-serif`.
+Outros elementos usam `'Rokkitt'`, `'Helvetica'`, `'Arial'`, e `sans-serif`.
 
-## Colors
-The following colors are used throughout the document for text and backgrounds:
+## Cores
+As seguintes cores serão usadas pelo documento para texto e fundos:
 - `#444444` (slate grey)
 - `#181818` (jet black)
 - `#cf8a05` (yellow)
 - `#f3f3f3` (off white)
 - `#dedede` (light grey)
 
-## Borders
-- the border that separates the header from the rest of the resume is 2px thick
-- borders between each section are 1px thick
+## Bordas
+- a borda que separa o cabeçalho do resto do currículo tem 2px de espessura
+- bordas entre cada seção tem 1px de espessura
 
-## Resources
-As you attempt to recreate the mock up, it may be useful to check out these resources:
-- [MDN CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-- [W3Schools CSS Reference](https://www.w3schools.com/cssref/default.asp)
+## Recursos
+Conforme você tentar recriar o mock up, poderá ser útil conferir estes recursos:
+- [MDN CSS Referência](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Reference)
+- [MDN CSS Reference (em inglês)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [W3Schools CSS Reference (em inglês)](https://www.w3schools.com/cssref/default.asp)
